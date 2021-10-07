@@ -24,5 +24,6 @@ public class Principal {
         Piloto bottas = new Piloto();
         bottas.nombre = "Bottas";
         bottas.strategia(estrategia3);
+
     }
 }

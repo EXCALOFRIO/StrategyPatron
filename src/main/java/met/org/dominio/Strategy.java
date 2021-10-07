@@ -4,5 +4,4 @@ public interface Strategy {
 
     public String paradaEnBoxes();
 
-    
 }
